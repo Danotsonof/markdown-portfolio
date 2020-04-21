@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* BE
+* FE
+  * JS
+  * CSS
+  * Html
